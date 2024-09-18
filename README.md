@@ -6,7 +6,7 @@
 <body>
     <style>
     body {
-    background-color: black; /* Couleur de l'arrière-plan */
+    background-color: white; /* Couleur de l'arrière-plan */
             }
     </style>
     <img src="dz.webp"  width="120" alt=""> <img src="can.gif" width="120" alt="">
