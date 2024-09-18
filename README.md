@@ -5,7 +5,6 @@
     <title>Menu CSS</title>
 </head>
 <body>
-    
     <style>
     body {
     background-color: black; /* Couleur de l'arrière-plan */
