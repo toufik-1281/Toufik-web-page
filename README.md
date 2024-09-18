@@ -37,7 +37,7 @@
             <br>
 
          <a href="download.html" class="image-link" target="_blank">
-        <img src="download.gif" width="150"></a><br></ul><br>
+        <img src="Download.gif" width="150"></a><br></ul><br>
 
             <a href="pentest.html" class="image-link" target="_blank">
         <img src="news.gif" width="150"></a><br><br>
