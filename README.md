@@ -1,9 +1,9 @@
 <html>
+    <body>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
     <title>Menu CSS</title>
-<body>
     <style>
     body {
     background-color: white; /* Couleur de l'arrière-plan */
@@ -12,7 +12,6 @@
     <img src="dz.webp"  width="120" alt=""> <img src="can.gif" width="120" alt="">
     <meta charset="UTF-8">
     <title>Welcome to Hacking-school</title>
-</head>
 <body>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,7 +30,6 @@
 
         <!-- liste -->
         <ul>
-
              <a href="index.html" class="image-link" target="_blank">
         <img src="pentest.webp" width="150"></a><br>
             <br>
@@ -45,7 +43,7 @@
 
 <style>
         .text-container {
-            max-width: 600px; /* Limite la largeur */
+            max-width: 400px; /* Limite la largeur */
             margin: 20px auto; /* Centre le conteneur */
             padding: 10px;
             border: 1px solid #ccc;
